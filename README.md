@@ -2,7 +2,7 @@
 A fabric 1.19.4 mod aimed to improve player experience
 
 ## Click Gui:
-<h2 align="center"><img src="https://discord.com/channels/1294997555532398663/1294997557373702159/1299472782328987699" height="540"><br>Wing Client</h2>
+![2024-10-25_23 40 31](https://github.com/user-attachments/assets/789906e7-0d18-4166-aa96-20058af37dea)
 
 ## Usage:
 1. Put the jar file into ur mods folder
@@ -15,3 +15,4 @@ https://www.youtube.com/watch?v=UzjKy2qpUNI
 ## Credits
 - Cracked by Ayhancann
 - Client Owners Markable n Loek
+
