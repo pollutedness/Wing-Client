@@ -13,6 +13,6 @@ A fabric 1.19.4 mod aimed to improve player experience
 https://www.youtube.com/watch?v=UzjKy2qpUNI
 
 ## Credits
-- Cracked by Ayhancan
+- Cracked by 9k
 - Client Owners Markable n Loek
 
