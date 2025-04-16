@@ -1,4 +1,3 @@
-[![Hits](https://hits.sh/github.com/Ayhancann/Wing-Client.svg?label=views&color=007ec6)](https://hits.sh/github.com/Ayhancann/Wing-Client/)
 # Wing
 A fabric 1.19.4 mod aimed to improve player experience
 
