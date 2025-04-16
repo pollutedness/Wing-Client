@@ -14,5 +14,6 @@ https://www.youtube.com/watch?v=UzjKy2qpUNI
 
 ## Credits
 - Cracked by 9k
-- Client Owners Markable n Loek
+- Client Developer: Ykela
+- Client Owners: Markable n Loek
 
